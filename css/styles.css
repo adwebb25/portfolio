@@ -1,0 +1,95 @@
+body {
+    font-family: 'Comfortaa', cursive;
+
+}
+
+
+#title {
+    background-color: rgb(202, 187, 216);
+    color: rgb(66, 65, 65)
+}
+
+h1 {
+    size: 3rem;
+    font-weight: 600;
+    line-height: 4rem;
+    
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding: 3% 5%
+    
+
+}
+
+.adamWebbImage {
+    size: 50%;
+
+}
+
+
+
+/* nav bar */
+
+.navbar {
+    padding-bottom: 2.5rem;
+}
+
+.navbar-brand {
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'lobster';
+
+}
+
+#features {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 7% 5%;
+}
+
+.boxFeature {
+    
+
+}
+
+.icon {
+    padding-bottom: 7%;
+}
+
+.icon:hover {
+    color: white;
+
+}
+
+/* testimonals */
+
+#testimonials {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 5% 15%
+}
+
+.testimonial-image {
+    border-radius: 100%;
+    width: 10%;
+    padding: 1rem;
+}
+
+/* press */
+
+#press {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 2rem;
+}
+
+.pressLogo {
+ padding: 2rem;
+    
+   
+}

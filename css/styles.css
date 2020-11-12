@@ -36,6 +36,37 @@ h3 {
     padding-left: 20%;
 }
 
+@media (max-width: 992px) {
+
+
+    #title {
+        text-align: center;
+        
+    }
+
+    .adamWebbImage {
+        width: 50%;
+        margin-top: 3rem;
+        /* margin: 1rem; */
+        margin-right: 6rem;
+        text-align: center;
+        
+    }
+
+    .cool-hunting-image {
+        display: none;
+
+    }
+
+   .inspirational-quote {
+       margin-bottom: 2rem;
+   }
+
+   #footer {
+       padding top
+   }
+
+}
 
 
 /* nav bar */
@@ -154,6 +185,7 @@ h3 {
     width: 39.5%;
     
     
+    
 }
 
 .img-LL {
@@ -161,7 +193,7 @@ h3 {
 }
 
 .img-Flyte {
-    width:  30%;
+    width:  23%;
 
 }
 
@@ -184,7 +216,7 @@ h3 {
     background-color: #93C0A4;
     font-weight: bold;
     text-align: center;
-    height: 200px;
+    /* height: 5rem; */
     padding-top: 10vh;
     padding-left: 3rem;
     padding-right: 3rem;
@@ -198,7 +230,7 @@ h3 {
     padding-left: 5rem;
     margin-bottom: none;
     padding-bottom: 3vh;
-    padding-top: 10vh;
+   
     
 }
 

@@ -151,12 +151,18 @@ h3 {
 }
 
 .img-OQ {
-    width: 43%;
+    width: 39.5%;
+    
     
 }
 
 .img-LL {
     width: 25%;
+}
+
+.img-Flyte {
+    width:  30%;
+
 }
 
 .card-group {
@@ -198,6 +204,7 @@ h3 {
 
 .social-tab {
     padding: 2rem;
+    color: grey;
 
 }
 
@@ -207,3 +214,14 @@ h3 {
     font-family: lobster;
     font-size: 3rem;
 }
+
+.cool-hunting-image {
+    width: 15%;
+}
+
+.card-img-top {
+    margin-top: 2vh;
+    margin-left: 38%;
+    
+}
+
